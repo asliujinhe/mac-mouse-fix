@@ -1,4 +1,37 @@
 
+/* Class = "NSTextFieldCell"; title = "Write a Feature Request"; ObjectID = "5yb-g8-Kcg"; */
+"5yb-g8-Kcg.title" = "Đề xuất tính năng mới";
+
+/* Class = "NSTextFieldCell"; title = "Acknowledgements"; ObjectID = "8pi-FV-zYE"; */
+"8pi-FV-zYE.title" = "Sự ghi nhận";
+
+/* Class = "NSTextFieldCell"; title = "Visit the Website"; ObjectID = "Ozk-o9-C4a"; */
+"Ozk-o9-C4a.title" = "Ghé thăm trang web";
+
+/* Class = "NSTextFieldCell"; title = "Send Me an Email"; ObjectID = "QaW-cc-uzc"; */
+"QaW-cc-uzc.title" = "Gửi email cho tác giả";
+
+/* Class = "NSTextFieldCell"; title = "Buy Me a Milkshake :)"; ObjectID = "TrI-uu-DEN"; */
+"TrI-uu-DEN.title" = "Ủng hộ tôi một ly trà sữa 🧋";
+
+/* Class = "NSTextFieldCell"; title = "Check It Out on GitHub"; ObjectID = "ZMA-p0-2lf"; */
+"ZMA-p0-2lf.title" = "Xem trên GitHub";
+
+/* Class = "NSTextFieldCell"; title = "File a Bug Report"; ObjectID = "bQf-qv-mvB"; */
+"bQf-qv-mvB.title" = "Gửi báo cáo lỗi";
+
+/* Class = "NSTextFieldCell"; title = "<Day 2/14 of your test period>"; ObjectID = "cul-5Z-iUo"; */
+"cul-5Z-iUo.title" = "<Ngày 2/14 của thời gian dùng thử>";
+
+/* Class = "NSTextFieldCell"; title = "Get Help"; ObjectID = "eVc-l9-Z0h"; */
+"eVc-l9-Z0h.title" = "Nhận trợ giúp";
+
+/* Class = "NSMenuItem"; title = "Activate License..."; ObjectID = "YBT-Ar-F4S"; */
+"YBT-Ar-F4S.title" = "Kích hoạt bản quyền...";
+
+/* Class = "NSMenuItem"; title = "Buy Mac Mouse Fix..."; ObjectID = "d0g-07-PaJ"; */
+"d0g-07-PaJ.title" = "Mua Mac Mouse Fix...";
+
 /* Class = "NSMenuItem"; title = "Regular"; ObjectID = "17P-PJ-tV1"; Note = "Scrolling > Smoothness > Regular Option"; */
 "17P-PJ-tV1.title" = "Bình thường";
 
@@ -29,9 +62,6 @@
 /* Class = "NSButtonCell"; title = "Precision"; ObjectID = "4hf-tQ-y76"; Note = "Scrolling > Precise Scrolling Toggle"; */
 "4hf-tQ-y76.title" = "Chính xác";
 
-/* Class = "NSTextFieldCell"; title = "Write a Feature Request"; ObjectID = "5yb-g8-Kcg"; */
-"5yb-g8-Kcg.title" = "Đề xuất tính năng mới";
-
 /* Class = "NSTextFieldCell"; title = "Scroll Horizontally"; ObjectID = "6Nj-Ed-W5T"; Note = "Scrolling > Keyboard Modifiers > Scroll Horizontally Label"; */
 "6Nj-Ed-W5T.title" = "Cuộn ngang";
 
@@ -43,9 +73,6 @@
 
 /* Class = "NSTextFieldCell"; title = "<Version - (-)>"; ObjectID = "79J-Zg-ebA"; */
 "79J-Zg-ebA.title" = "<Phiên bản - (-)>";
-
-/* Class = "NSTextFieldCell"; title = "Acknowledgements"; ObjectID = "8pi-FV-zYE"; */
-"8pi-FV-zYE.title" = "Sự ghi nhận";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "97W-3h-SSc"; Note = "Scrolling > Smoothness > High Option"; */
 "97W-3h-SSc.title" = "Cao";
@@ -125,9 +152,6 @@
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "NdF-Gb-mOK"; */
 "NdF-Gb-mOK.title" = "Thu nhỏ";
 
-/* Class = "NSTextFieldCell"; title = "Visit the Website"; ObjectID = "Ozk-o9-C4a"; */
-"Ozk-o9-C4a.title" = "Ghé thăm trang web";
-
 /* Class = "NSMenuItem"; title = "Off"; ObjectID = "PdO-dH-G7Y"; Note = "Pointer > Acceleration > Off Option"; */
 "PdO-dH-G7Y.title" = "Tắt";
 
@@ -136,9 +160,6 @@
 
 /* Class = "NSTextFieldCell"; title = "<⌘⇧⌥⌃ + Triple Click and Drag Button 3>"; ObjectID = "QKM-im-bk9"; */
 "QKM-im-bk9.title" = "<⌘⇧⌥⌃ + Kích ba lần và kéo Nút số 3>";
-
-/* Class = "NSTextFieldCell"; title = "Send Me an Email"; ObjectID = "QaW-cc-uzc"; */
-"QaW-cc-uzc.title" = "Gửi email cho tác giả";
 
 /* Class = "NSTextFieldCell"; title = "Enable Mac Mouse Fix"; ObjectID = "RV9-5T-rvb"; Note = "General > Enable Mac Mouse Fix Label"; */
 "RV9-5T-rvb.title" = "Kích hoạt Mac Mouse Fix";
@@ -161,9 +182,6 @@
 /* Class = "NSTextFieldCell"; title = "Smoothness:"; ObjectID = "SjO-Dq-CEX"; Note = "Scrolling > Smoothness Label"; */
 "SjO-Dq-CEX.title" = "Độ mượt";
 
-/* Class = "NSTextFieldCell"; title = "Buy Me a Milkshake :)"; ObjectID = "TrI-uu-DEN"; */
-"TrI-uu-DEN.title" = "Ủng hộ tôi một ly trà sữa 🧋";
-
 /* Class = "NSMenuItem"; title = "Quit Mac Mouse Fix"; ObjectID = "UeD-ND-tYj"; */
 "UeD-ND-tYj.title" = "Tắt Mac Mouse Fix";
 
@@ -176,17 +194,11 @@
 /* Class = "NSTextFieldCell"; title = "Sensitivity:"; ObjectID = "XAP-He-hda"; Note = "Pointer > Sensitivity Label"; */
 "XAP-He-hda.title" = "Độ nhạy:";
 
-/* Class = "NSMenuItem"; title = "Activate License..."; ObjectID = "YBT-Ar-F4S"; */
-"YBT-Ar-F4S.title" = "Kích hoạt bản quyền...";
-
 /* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "YDr-ez-VKk"; Note = "Pointer > Sensitivity Slider > Medium Label"; */
 "YDr-ez-VKk.title" = "Vừa";
 
 /* Class = "NSMenu"; title = "Mac Mouse Fix"; ObjectID = "Yyg-LD-A1v"; */
 "Yyg-LD-A1v.title" = "Mac Mouse Fix";  //!IS_OK
-
-/* Class = "NSTextFieldCell"; title = "Check It Out on GitHub"; ObjectID = "ZMA-p0-2lf"; */
-"ZMA-p0-2lf.title" = "Xem trên GitHub";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "ZfY-xQ-tQl"; */
 "ZfY-xQ-tQl.title" = "Thu phóng";
@@ -206,9 +218,6 @@
 /* Class = "NSMenuItem"; title = "Medium"; ObjectID = "bJS-hB-0l3"; Note = "Pointer > Acceleration > Medium Option"; */
 "bJS-hB-0l3.title" = "Vừa";
 
-/* Class = "NSTextFieldCell"; title = "File a Bug Report"; ObjectID = "bQf-qv-mvB"; */
-"bQf-qv-mvB.title" = "Gửi báo cáo lỗi";
-
 /* Class = "NSTextFieldCell"; title = "Mac Mouse Fix will stay enabled after you close it"; ObjectID = "bew-ni-FnZ"; */
 "bew-ni-FnZ.title" = "Mac Mouse Fix vẫn được bật khi bạn đóng nó";
 
@@ -224,20 +233,11 @@
 /* Class = "NSMenuItem"; title = "macOS"; ObjectID = "cnA-CV-nF3"; Note = "Pointer > Acceleration > macOS Option"; */
 "cnA-CV-nF3.title" = "macOS";  //!IS_OK
 
-/* Class = "NSTextFieldCell"; title = "<Day 2/14 of your test period>"; ObjectID = "cul-5Z-iUo"; */
-"cul-5Z-iUo.title" = "<Ngày 2/14 của thời gian dùng thử>";
-
-/* Class = "NSMenuItem"; title = "Buy Mac Mouse Fix..."; ObjectID = "d0g-07-PaJ"; */
-"d0g-07-PaJ.title" = "Mua Mac Mouse Fix...";
-
 /* Class = "NSViewController"; title = "Buttons"; ObjectID = "d9S-X9-qM1"; Note = "Buttons Tab Title"; */
 "d9S-X9-qM1.title" = "Nút";
 
 /* Class = "NSViewController"; title = "General"; ObjectID = "eLS-O0-A1x"; Note = "General Tab Title"; */
 "eLS-O0-A1x.title" = "Chung";
-
-/* Class = "NSTextFieldCell"; title = "Get Help"; ObjectID = "eVc-l9-Z0h"; */
-"eVc-l9-Z0h.title" = "Nhận trợ giúp";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "fGs-UI-L0d"; */
 "fGs-UI-L0d.title" = "Hiển thị tất cả";

@@ -5,6 +5,135 @@
 /* First draft: Content tracks finger movement */
 "natural-scrolling-hint" = "손가락이 움직임이는 방향에 따라 콘텐츠가 이동됩니다.";
 
+/* First draft: Free day **%d/%d** */
+"trial-counter.active" = "무료 체험 기간 **%d/%d**일";
+
+/* First draft: Free days are over */
+"trial-counter.expired" = "무료 체험 기간이 끝났습니다.";
+
+/* First draft: Activate License */
+"trial-notif.activate-license-button" = "라이센스 활성화";
+
+/* First draft: Activate License */
+"license-button.activate" = "라이센스 활성화";
+
+/* First draft: Deactivate License */
+"license-button.deactivate" = "라이센스 비활성화";
+
+/* First draft: Your license has been **activated**! 🎉 */
+"license-toast.activate" = "라이센스가 **활성화**되었습니다! 🎉";
+
+/* First draft: This license has been activated **%d** times. The maximum is **%d**.\n\nBecause of this, the license has been invalidated. This is to prevent piracy. If you have other reasons for activating the license this many times, please excuse the inconvenience.\n\nJust [reach out](mailto:noah.n.public@gmail.com) and I will provide you with a new license! Thanks for understanding. */
+"license-toast.activation-overload" = "이 라이센스는 **%d회** 활성화되어있으며, 최대 **%d회**까지만 활성화할 수 있습니다.\n\n불법 복제 방지를 위해 라이센스는 무효화되었습니다.\n\n동일한 라이센스를 여러번 활성화해야할 다른 이유가 있을 경우, [연락](mailto:noah.n.public@gmail.com) 주시면 새 라이센스를 발급해드리겠습니다. 이해해주셔서 감사합니다.";
+
+/* First draft: This license is **already activated**! */
+"license-toast.already-active" = "이 라이센스는 **이미 활성화**되어있습니다!";
+
+/* First draft: Your license has been **deactivated** */
+"license-toast.deactivate" = "라이센스가 **비활성화**되었습니다.";
+
+/* First draft: This license __could not be activated__ but Mac Mouse Fix is currently __free in your country__! */
+"license-toast.free-country" = "라이센스가 **활성화되지 않았습니다**. 사용자 국가에서는 현재 **무료로 사용 가능**합니다.";
+
+/* First draft: **An error with the licensing server occured**\n\nIt says:\n\n%@ */
+"license-toast.gumroad-error" = "**라이센스 서버 에러가 발생하였습니다.**\n\n에러 정보:\n\n%@";
+
+/* First draft: **There is no connection to the internet**\n\nTry activating your license again when your computer is online. */
+"license-toast.no-internet" = "**인터넷 연결이 없습니다.**\n\n컴퓨터를 인터넷에 연결한 후에 다시 시도하십시오.";
+
+/* First draft: **There was an issue with the licensing server**\n\nPlease try again later.\n\nIf the issue persists, please reach out to me [here](mailto:noah.n.public@gmail.com). */
+"license-toast.server-response-invalid" = "license-toast.server-response-invalid";
+
+/* First draft: **An unknown error occurred:**\n\n%@ */
+"license-toast.unknown-error" = "**알 수 없는 에러가 발생하였습니다:**\n\n%@";
+
+/* First draft: **'%@'** is not a known license key\n\nPlease try a different key */
+"license-toast.unknown-key" = "**'%@'** 키는 올바르지 않은 라이센스 키입니다.\n\n다시 입력하십시오.";
+
+/* First draft: Activating your license failed for **unknown reasons**\n\nPlease write a **Bug Report** [here](https://noah-nuebling.github.io/mac-mouse-fix-feedback-assistant/?type=bug-report) */
+"license-toast.unknown-reason" = "**알 수 없는 이유**로 라이센스를 활성화하지 못했습니다.\n\n[여기](https://noah-nuebling.github.io/mac-mouse-fix-feedback-assistant/?type=bug-report)에서 **버그 제보**를 작성해주십시오.";
+
+/* First draft: Hi there! You've been using Mac Mouse Fix for **%d days** now. I hope you're enjoying it!\n\nIf you want to keep using Mac Mouse Fix, you can [buy it now](%@). */
+"trial-notif.body" = "안녕하세요! Mac Mouse Fix를 **%d일째** 사용 중입니다.\n\n사용해주셔서 감사드리며, Mac Mouse Fix를 계속 사용하시려면 [구입](%@)해주십시오.";
+
+/* First draft: Mac Mouse Fix is currently free in your country (%@) */
+"free-country" = "사용자 국가(%@)에서 Mac Mouse Fix는 현재 무료로 제공됩니다.";
+
+/* First draft: ⭐️ Thank you for buying Mac Mouse Fix! */
+"thanks.01" = "⭐️ Mac Mouse Fix를 구입해주셔서 감사합니다!";
+
+/* First draft: 🌟 Thanks for purchasing Mac Mouse Fix! */
+"thanks.02" = "🌟 Mac Mouse Fix를 결제해주셔서 감사합니다!";
+
+/* First draft: 🚀 Thanks for supporting Mac Mouse Fix! */
+"thanks.03" = "🚀 Mac Mouse Fix를 지원해주셔서 감사합니다!";
+
+/* First draft: 🙌 Thanks for buying Mac Mouse Fix! */
+"thanks.04" = "🙌 Mac Mouse Fix를 구입해주셔서 감사합니다!";
+
+/* First draft: 🧠 Great purchasing decision! ;) */
+"thanks.05" = "🧠 잘 사셨어요! ;)";
+
+/* First draft: 🔥 Awesome taste in mouse fixing software! ;) */
+"thanks.06" = "🔥 이 앱, 마우스 참 잘 고치네! ;)";
+
+/* First draft: 💙 */
+"thanks.07" = "💙";
+
+/* First draft: :) <- My face when I saw you bought Mac Mouse Fix */
+"thanks.08" = ":) <- Mac Mouse Fix를 구입해주신걸 본 제 표정이에요.";
+
+/* First draft: 👽 Share it with your Spacebook friends! */
+"thanks.09" = "👽 Spacebook 친구분들께도 공유해주세요!";
+
+/* First draft: 🏂 Duckgang for life!! || Note: A lot of these are very personal. And weird. They are also super rare. Feel free to change them to anything you feel like to leave a little easter egg! */
+"thanks.10" = "🏂 Duckgang 영원해줘!!";
+
+/* First draft: 🚜 Watch where you're going :P */
+"thanks.11" = "🚜 조심히 가세요 :P";
+
+/* First draft: 🐁 Not these mice, mom! */
+"thanks.12" = "🐁 아 엄마 이 마우스 말고!";
+
+/* First draft: 🐹 We should get him a bow tie. */
+"thanks.13" = "🐹 나비넥타이를 좀 사줘야겠네요.";
+
+/* First draft: 🇹🇷 Ey Kanka, tebrikler tebrikler! */
+"thanks.14" = "🇹🇷 Ey Kanka, tebrikler tebrikler!";
+
+/* First draft: 🥛 Whole milk of course! It's your birthday after all. */
+"thanks.15" = "🥛 생일에 마시는 생우유예요!";
+
+/* First draft: 🎸 Not John Mayer (yet). Nevertheless mayor of hearts. */
+"thanks.16" = "🎸 존 메이어까지는 (아직)아니지만, 마음은 mayer입니다.";
+
+/* First draft: 💃 1NEIN8NEIN */
+"thanks.17" = "💃 1NEIN8NEIN";
+
+/* First draft: 🦄 You may not want to save the world, but you're already saving mine :) */
+"thanks.18" = "🦄 당신이 세상을 구하고 싶으시지는 않을지 모르지만, 적어도 저는 구해주고 계세요 :)";
+
+/* First draft: 🏜️ Dankeschön, meine Frau... */
+"thanks.19" = "🏜️ Dankeschön, meine Frau...";
+
+/* First draft: 🌍 Universal Studios is probably not that great anyways... :) */
+"thanks.20" = "🌍 유니버설 스튜디오도 이만큼 대단하지는 않을 것 같아요... :)";
+
+/* First draft: 🐠 What... are... you? */
+"thanks.21" = "🐠 What... are... you?";
+
+/* First draft: 🖤 */
+"thanks.22" = "🖤";
+
+/* First draft: 🤍 */
+"thanks.23" = "🤍";
+
+/* First draft: 😎 Oh you're using Mac Mouse Fix? You must be pretty cool. */
+"thanks.24" = "😎 오, Mac Mouse Fix 쓰시네요? 뭘 좀 아시는 분!";
+
+/* First draft: 🌏 First the mice, then the world!! >:) */
+"thanks.25" = "🌏 태초에 마우스가 있었고, 그 후에 세상 열렸다!! >:)";
+
 /* First draft: Open 'Security & Privacy' Preferences || Notes: The string for Ventura and later is defined in Interface Builder */
 "accessibility.settings-link.pre-ventura" = "'보안 및 개인 정보 보호' 설정 열기";
 
@@ -254,9 +383,6 @@
 /* First draft: **Secondary Mouse Button** can't be used\nPlease try another button */
 "forbidden-capture-toast.2" = "**마우스 보조 버튼**은 사용할 수 없습니다.\n다른 버튼으로 다시 시도하십시오.";
 
-/* First draft: Mac Mouse Fix is currently free in your country (%@) */
-"free-country" = "사용자 국가(%@)에서 Mac Mouse Fix는 현재 무료로 제공됩니다.";
-
 /* First draft: Mac Mouse Fix was **disabled** in System Settings\n\nTo enable Mac Mouse Fix:\n\n1. Go to [Login Items Settings](x-apple.systempreferences:com.apple.LoginItems-Settings.extension)\n2. Switch on \'Mac Mouse Fix.app\' */
 "is-disabled-toast" = "시스템 설정에서 Mac Mouse Fix가 **비활성화**되어있습니다.\n\nMac Mouse Fix를 사용하려면 다음 절차를 따르십시오:\n\n1. [로그인 항목 설정](x-apple.systempreferences:com.apple.LoginItems-Settings.extension)을 엽니다.\n2. \'Mac Mouse Fix.app\' 항목을 허용합니다.";
 
@@ -271,45 +397,6 @@
 
 /* First draft: %@ and %@ || Note: This format string joins the second-to-last element and the last elements in a list of items */
 "join-list.last" = "%@ 및 %@";
-
-/* First draft: Activate License */
-"license-button.activate" = "라이센스 활성화";
-
-/* First draft: Deactivate License */
-"license-button.deactivate" = "라이센스 비활성화";
-
-/* First draft: Your license has been **activated**! 🎉 */
-"license-toast.activate" = "라이센스가 **활성화**되었습니다! 🎉";
-
-/* First draft: This license has been activated **%d** times. The maximum is **%d**.\n\nBecause of this, the license has been invalidated. This is to prevent piracy. If you have other reasons for activating the license this many times, please excuse the inconvenience.\n\nJust [reach out](mailto:noah.n.public@gmail.com) and I will provide you with a new license! Thanks for understanding. */
-"license-toast.activation-overload" = "이 라이센스는 **%d회** 활성화되어있으며, 최대 **%d회**까지만 활성화할 수 있습니다.\n\n불법 복제 방지를 위해 라이센스는 무효화되었습니다.\n\n동일한 라이센스를 여러번 활성화해야할 다른 이유가 있을 경우, [연락](mailto:noah.n.public@gmail.com) 주시면 새 라이센스를 발급해드리겠습니다. 이해해주셔서 감사합니다.";
-
-/* First draft: This license is **already activated**! */
-"license-toast.already-active" = "이 라이센스는 **이미 활성화**되어있습니다!";
-
-/* First draft: Your license has been **deactivated** */
-"license-toast.deactivate" = "라이센스가 **비활성화**되었습니다.";
-
-/* First draft: This license __could not be activated__ but Mac Mouse Fix is currently __free in your country__! */
-"license-toast.free-country" = "라이센스가 **활성화되지 않았습니다**. 사용자 국가에서는 현재 **무료로 사용 가능**합니다.";
-
-/* First draft: **An error with the licensing server occured**\n\nIt says:\n\n%@ */
-"license-toast.gumroad-error" = "**라이센스 서버 에러가 발생하였습니다.**\n\n에러 정보:\n\n%@";
-
-/* First draft: **There is no connection to the internet**\n\nTry activating your license again when your computer is online. */
-"license-toast.no-internet" = "**인터넷 연결이 없습니다.**\n\n컴퓨터를 인터넷에 연결한 후에 다시 시도하십시오.";
-
-/* First draft: **There was an issue with the licensing server**\n\nPlease try again later.\n\nIf the issue persists, please reach out to me [here](mailto:noah.n.public@gmail.com). */
-"license-toast.server-response-invalid" = "license-toast.server-response-invalid";
-
-/* First draft: **An unknown error occurred:**\n\n%@ */
-"license-toast.unknown-error" = "**알 수 없는 에러가 발생하였습니다:**\n\n%@";
-
-/* First draft: **'%@'** is not a known license key\n\nPlease try a different key */
-"license-toast.unknown-key" = "**'%@'** 키는 올바르지 않은 라이센스 키입니다.\n\n다시 입력하십시오.";
-
-/* First draft: Activating your license failed for **unknown reasons**\n\nPlease write a **Bug Report** [here](https://noah-nuebling.github.io/mac-mouse-fix-feedback-assistant/?type=bug-report) */
-"license-toast.unknown-reason" = "**알 수 없는 이유**로 라이센스를 활성화하지 못했습니다.\n\n[여기](https://noah-nuebling.github.io/mac-mouse-fix-feedback-assistant/?type=bug-report)에서 **버그 제보**를 작성해주십시오.";
 
 /* First draft: Set speed under\n[%@ > Mouse > Scrolling Speed](%@) */
 "macos-scrolling-hint" = "[%@ > 마우스 > 스크롤 속도](%@)에서 속도를 설정합니다.";
@@ -424,93 +511,6 @@
 
 /* First draft: System Preferences */
 "system-settings-name.pre-ventura" = "시스템 환경설정";
-
-/* First draft: ⭐️ Thank you for buying Mac Mouse Fix! */
-"thanks.01" = "⭐️ Mac Mouse Fix를 구입해주셔서 감사합니다!";
-
-/* First draft: 🌟 Thanks for purchasing Mac Mouse Fix! */
-"thanks.02" = "🌟 Mac Mouse Fix를 결제해주셔서 감사합니다!";
-
-/* First draft: 🚀 Thanks for supporting Mac Mouse Fix! */
-"thanks.03" = "🚀 Mac Mouse Fix를 지원해주셔서 감사합니다!";
-
-/* First draft: 🙌 Thanks for buying Mac Mouse Fix! */
-"thanks.04" = "🙌 Mac Mouse Fix를 구입해주셔서 감사합니다!";
-
-/* First draft: 🧠 Great purchasing decision! ;) */
-"thanks.05" = "🧠 잘 사셨어요! ;)";
-
-/* First draft: 🔥 Awesome taste in mouse fixing software! ;) */
-"thanks.06" = "🔥 이 앱, 마우스 참 잘 고치네! ;)";
-
-/* First draft: 💙 */
-"thanks.07" = "💙";
-
-/* First draft: :) <- My face when I saw you bought Mac Mouse Fix */
-"thanks.08" = ":) <- Mac Mouse Fix를 구입해주신걸 본 제 표정이에요.";
-
-/* First draft: 👽 Share it with your Spacebook friends! */
-"thanks.09" = "👽 Spacebook 친구분들께도 공유해주세요!";
-
-/* First draft: 🏂 Duckgang for life!! || Note: A lot of these are very personal. And weird. They are also super rare. Feel free to change them to anything you feel like to leave a little easter egg! */
-"thanks.10" = "🏂 Duckgang 영원해줘!!";
-
-/* First draft: 🚜 Watch where you're going :P */
-"thanks.11" = "🚜 조심히 가세요 :P";
-
-/* First draft: 🐁 Not these mice, mom! */
-"thanks.12" = "🐁 아 엄마 이 마우스 말고!";
-
-/* First draft: 🐹 We should get him a bow tie. */
-"thanks.13" = "🐹 나비넥타이를 좀 사줘야겠네요.";
-
-/* First draft: 🇹🇷 Ey Kanka, tebrikler tebrikler! */
-"thanks.14" = "🇹🇷 Ey Kanka, tebrikler tebrikler!";
-
-/* First draft: 🥛 Whole milk of course! It's your birthday after all. */
-"thanks.15" = "🥛 생일에 마시는 생우유예요!";
-
-/* First draft: 🎸 Not John Mayer (yet). Nevertheless mayor of hearts. */
-"thanks.16" = "🎸 존 메이어까지는 (아직)아니지만, 마음은 mayer입니다.";
-
-/* First draft: 💃 1NEIN8NEIN */
-"thanks.17" = "💃 1NEIN8NEIN";
-
-/* First draft: 🦄 You may not want to save the world, but you're already saving mine :) */
-"thanks.18" = "🦄 당신이 세상을 구하고 싶으시지는 않을지 모르지만, 적어도 저는 구해주고 계세요 :)";
-
-/* First draft: 🏜️ Dankeschön, meine Frau... */
-"thanks.19" = "🏜️ Dankeschön, meine Frau...";
-
-/* First draft: 🌍 Universal Studios is probably not that great anyways... :) */
-"thanks.20" = "🌍 유니버설 스튜디오도 이만큼 대단하지는 않을 것 같아요... :)";
-
-/* First draft: 🐠 What... are... you? */
-"thanks.21" = "🐠 What... are... you?";
-
-/* First draft: 🖤 */
-"thanks.22" = "🖤";
-
-/* First draft: 🤍 */
-"thanks.23" = "🤍";
-
-/* First draft: 😎 Oh you're using Mac Mouse Fix? You must be pretty cool. */
-"thanks.24" = "😎 오, Mac Mouse Fix 쓰시네요? 뭘 좀 아시는 분!";
-
-/* First draft: 🌏 First the mice, then the world!! >:) */
-"thanks.25" = "🌏 태초에 마우스가 있었고, 그 후에 세상 열렸다!! >:)";
-
-/* First draft: Free day **%d/%d** */
-"trial-counter.active" = "무료 체험 기간 **%d/%d**일";
-
-/* First draft: Free days are over */
-"trial-counter.expired" = "무료 체험 기간이 끝났습니다.";
-
-/* First draft: Activate License */
-"trial-notif.activate-license-button" = "라이센스 활성화";
-
-/* First draft: Hi there! You've been using Mac Mouse Fix for **%d days** now. I hope you're enjoying it!\n\nIf you want to keep using Mac Mouse Fix, you can [buy it now](%@). */
-"trial-notif.body" = "안녕하세요! Mac Mouse Fix를 **%d일째** 사용 중입니다.\n\n사용해주셔서 감사드리며, Mac Mouse Fix를 계속 사용하시려면 [구입](%@)해주십시오.";
 
 /* First draft: Click %@ || Note: %@ will be a button name || Example where %@ is 'Button 5': ⌥⌘ Double Click Button 4 + Click Button 5 || Note: Most of the substrings that are used to build the Action Table Trigger Strings (this is one of those substrings) are capitalized in English because it's common to use 'title case' there. In your language, 'title case' might not be a thing, and so you might not want to capitalize these strings. The first letter of the trigger string will be programmatically capitalized in any language. */
 "trigger.click.1" = "%@ 클릭";

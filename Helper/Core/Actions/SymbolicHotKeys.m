@@ -185,7 +185,7 @@ CG_EXTERN CGError CGSSetSymbolicHotKeyValue(CGSSymbolicHotKey hotKey, unichar ke
                 if (!rlIsRunning) {
                     DDLogWarn(@"Current thread's rl is not running. Using main rl instead.");
                     /// ^ If our threading architecture wasn't scuffed, this should never happen. But it currently does [Jan 2025] for shk's mapped to a single click when there's a double click action. (If that shk's binding is 'unusable' or disabled.)
-                    ///     – that's because the single click trigger then runs on the `com.nuebling.mac-mouse-fix.buttons` queue which doesn't have a rl.
+                    ///     – that's because the single click trigger then runs on the `org.jetos.mac-mouse-fix.buttons` queue which doesn't have a rl.
                     ///     (Note if you wanna test this: The LookUp shk (Command-Control-D) is 'unusable' under the Dvorak layout – which should cause this codepath to be executed.)
                     rl = CFRunLoopGetMain();
                 }
@@ -529,7 +529,7 @@ TISInputSourceRef MFTISCopyKeyboardShortcutInputSourceForKeyboardLayoutInputSour
     ///     Message: `BUG IN CLIENT OF LIBDISPATCH: Assertion failed: Block was expected to execute on queue [com.apple.main-thread (0x20870fdc0)]`
     ///     However, I only saw this happen, if:
     ///         - I have a debugger attached (weird)
-    ///         - This is running on the `com.nuebling.mac-mouse-fix.buttons` queue. (make sense I think? Cause otherwise it was running on the mainthread I think.)
+    ///         - This is running on the `org.jetos.mac-mouse-fix.buttons` queue. (make sense I think? Cause otherwise it was running on the mainthread I think.)
     ///     Relevant note from Apple's TextInputSources.h:
     ///         Mac OS X threading:
     ///         TextInputSources API is not thread safe. If you are a UI application, you must call TextInputSources API on the main thread.

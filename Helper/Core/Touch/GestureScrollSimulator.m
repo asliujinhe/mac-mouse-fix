@@ -47,7 +47,7 @@ static dispatch_queue_t _momentumQueue;
         /// Init dispatch queue
         
         dispatch_queue_attr_t attr = dispatch_queue_attr_make_with_qos_class(DISPATCH_QUEUE_SERIAL, QOS_CLASS_USER_INTERACTIVE, -1);
-        _momentumQueue = dispatch_queue_create("com.nuebling.mac-mouse-fix.gesture-scroll", attr);
+        _momentumQueue = dispatch_queue_create("org.jetos.mac-mouse-fix.gesture-scroll", attr);
         
         /// Init Pixelators
         

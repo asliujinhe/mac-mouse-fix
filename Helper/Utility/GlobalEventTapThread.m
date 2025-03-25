@@ -45,7 +45,7 @@ static NSCondition *_threadIsInitializedSignal;
         
         /// Setup thread
         _thread = [[NSThread alloc] initWithTarget:self selector:@selector(threadWorkload) object:nil];
-        _thread.name = @"com.nuebling.mac-mouse-fix.global-event-tap";
+        _thread.name = @"org.jetos.mac-mouse-fix.global-event-tap";
         _thread.qualityOfService = NSQualityOfServiceUserInteractive;
         _thread.threadPriority = 1.0;
         [_thread start];

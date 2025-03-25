@@ -71,7 +71,7 @@ typedef enum {
         
         /// Setup queue
         dispatch_queue_attr_t attrs = dispatch_queue_attr_make_with_qos_class(DISPATCH_QUEUE_SERIAL, QOS_CLASS_USER_INTERACTIVE, -1);
-        _displayLinkQueue = dispatch_queue_create("com.nuebling.mac-mouse-fix.helper.display-link", attrs); /// TODO: Remove .helper from the queue name. This is used in the mainApp, too.
+        _displayLinkQueue = dispatch_queue_create("org.jetos.mac-mouse-fix.helper.display-link", attrs); /// TODO: Remove .helper from the queue name. This is used in the mainApp, too.
         
         /// Setup internal CVDisplayLink
         [self setUpNewDisplayLinkWithActiveDisplays];

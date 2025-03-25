@@ -1,4 +1,37 @@
 
+/* Class = "NSTextFieldCell"; title = "Write a Feature Request"; ObjectID = "5yb-g8-Kcg"; */
+"5yb-g8-Kcg.title" = "Schlage ein Feature vor";
+
+/* Class = "NSTextFieldCell"; title = "Acknowledgements"; ObjectID = "8pi-FV-zYE"; */
+"8pi-FV-zYE.title" = "Anerkennungen";
+
+/* Class = "NSTextFieldCell"; title = "Visit the Website"; ObjectID = "Ozk-o9-C4a"; */
+"Ozk-o9-C4a.title" = "Besuche die Webseite";
+
+/* Class = "NSTextFieldCell"; title = "Send Me an Email"; ObjectID = "QaW-cc-uzc"; */
+"QaW-cc-uzc.title" = "Sende mir eine E-Mail";
+
+/* Class = "NSTextFieldCell"; title = "Buy Me a Milkshake :)"; ObjectID = "TrI-uu-DEN"; */
+"TrI-uu-DEN.title" = "Spendier mir einen Milchshake :)"; /// "KAUF MIR NEN MILCHSHAKE :)";
+
+/* Class = "NSTextFieldCell"; title = "Check It Out on GitHub"; ObjectID = "ZMA-p0-2lf"; */
+"ZMA-p0-2lf.title" = "Schau es dir auf GitHub an";
+
+/* Class = "NSTextFieldCell"; title = "File a Bug Report"; ObjectID = "bQf-qv-mvB"; */
+"bQf-qv-mvB.title" = "Erstatte einen Fehlerbericht";
+
+/* Class = "NSTextFieldCell"; title = "<Day 2/14 of your test period>"; ObjectID = "cul-5Z-iUo"; */
+"cul-5Z-iUo.title" = "<Danke, dass du Mac Mouse Fix gekauft hast!>";
+
+/* Class = "NSTextFieldCell"; title = "Get Help"; ObjectID = "eVc-l9-Z0h"; */
+"eVc-l9-Z0h.title" = "Bekomme Hilfe";
+
+/* Class = "NSMenuItem"; title = "Activate License..."; ObjectID = "YBT-Ar-F4S"; */
+"YBT-Ar-F4S.title" = "Lizenz aktivieren...";
+
+/* Class = "NSMenuItem"; title = "Buy Mac Mouse Fix..."; ObjectID = "d0g-07-PaJ"; */
+"d0g-07-PaJ.title" = "Mac Mouse Fix kaufen...";
+
 /* Class = "NSMenuItem"; title = "Regular"; ObjectID = "17P-PJ-tV1"; Note = "Scrolling > Smoothness > Regular Option"; */
 "17P-PJ-tV1.title" = "Regulär";
 
@@ -29,9 +62,6 @@
 /* Class = "NSButtonCell"; title = "Precision"; ObjectID = "4hf-tQ-y76"; Note = "Scrolling > Precise Scrolling Toggle"; */
 "4hf-tQ-y76.title" = "Präzision";
 
-/* Class = "NSTextFieldCell"; title = "Write a Feature Request"; ObjectID = "5yb-g8-Kcg"; */
-"5yb-g8-Kcg.title" = "Schlage ein Feature vor";
-
 /* Class = "NSTextFieldCell"; title = "Scroll Horizontally"; ObjectID = "6Nj-Ed-W5T"; Note = "Scrolling > Keyboard Modifiers > Scroll Horizontally Label"; */
 "6Nj-Ed-W5T.title" = "Horizontal scrollen";
 
@@ -43,9 +73,6 @@
 
 /* Class = "NSTextFieldCell"; title = "<Version - (-)>"; ObjectID = "79J-Zg-ebA"; */
 "79J-Zg-ebA.title" = "Version 2.0.0 Beta 4 (5842)";
-
-/* Class = "NSTextFieldCell"; title = "Acknowledgements"; ObjectID = "8pi-FV-zYE"; */
-"8pi-FV-zYE.title" = "Anerkennungen";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "97W-3h-SSc"; Note = "Scrolling > Smoothness > High Option"; */
 "97W-3h-SSc.title" = "Hoch";
@@ -125,9 +152,6 @@
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "NdF-Gb-mOK"; */
 "NdF-Gb-mOK.title" = "Minimieren";
 
-/* Class = "NSTextFieldCell"; title = "Visit the Website"; ObjectID = "Ozk-o9-C4a"; */
-"Ozk-o9-C4a.title" = "Besuche die Webseite";
-
 /* Class = "NSMenuItem"; title = "Off"; ObjectID = "PdO-dH-G7Y"; Note = "Pointer > Acceleration > Off Option"; */
 "PdO-dH-G7Y.title" = "Aus";
 
@@ -136,9 +160,6 @@
 
 /* Class = "NSTextFieldCell"; title = "<⌘⇧⌥⌃ + Triple Click and Drag Button 3>"; ObjectID = "QKM-im-bk9"; */
 "QKM-im-bk9.title" = "<>";
-
-/* Class = "NSTextFieldCell"; title = "Send Me an Email"; ObjectID = "QaW-cc-uzc"; */
-"QaW-cc-uzc.title" = "Sende mir eine E-Mail";
 
 /* Class = "NSTextFieldCell"; title = "Enable Mac Mouse Fix"; ObjectID = "RV9-5T-rvb"; Note = "General > Enable Mac Mouse Fix Label"; */
 "RV9-5T-rvb.title" = "Mac Mouse Fix einschalten";
@@ -161,9 +182,6 @@
 /* Class = "NSTextFieldCell"; title = "Smoothness:"; ObjectID = "SjO-Dq-CEX"; Note = "Scrolling > Smoothness Label"; */
 "SjO-Dq-CEX.title" = "Flüssgkeit:"; // !IS_OK
 
-/* Class = "NSTextFieldCell"; title = "Buy Me a Milkshake :)"; ObjectID = "TrI-uu-DEN"; */
-"TrI-uu-DEN.title" = "Spendier mir einen Milchshake :)"; /// "KAUF MIR NEN MILCHSHAKE :)";
-
 /* Class = "NSMenuItem"; title = "Quit Mac Mouse Fix"; ObjectID = "UeD-ND-tYj"; */
 "UeD-ND-tYj.title" = "Mac Mouse Fix beenden";
 
@@ -176,17 +194,11 @@
 /* Class = "NSTextFieldCell"; title = "Sensitivity:"; ObjectID = "XAP-He-hda"; Note = "Pointer > Sensitivity Label"; */
 "XAP-He-hda.title" = "Empfindlichkeit:";
 
-/* Class = "NSMenuItem"; title = "Activate License..."; ObjectID = "YBT-Ar-F4S"; */
-"YBT-Ar-F4S.title" = "Lizenz aktivieren...";
-
 /* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "YDr-ez-VKk"; Note = "Pointer > Sensitivity Slider > Medium Label"; */
 "YDr-ez-VKk.title" = "Mittel";
 
 /* Class = "NSMenu"; title = "Mac Mouse Fix"; ObjectID = "Yyg-LD-A1v"; */
 "Yyg-LD-A1v.title" = "Mac Mouse Fix"; // !IS_OK
-
-/* Class = "NSTextFieldCell"; title = "Check It Out on GitHub"; ObjectID = "ZMA-p0-2lf"; */
-"ZMA-p0-2lf.title" = "Schau es dir auf GitHub an";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "ZfY-xQ-tQl"; */
 "ZfY-xQ-tQl.title" = "Zoomen";
@@ -206,9 +218,6 @@
 /* Class = "NSMenuItem"; title = "Medium"; ObjectID = "bJS-hB-0l3"; Note = "Pointer > Acceleration > Medium Option"; */
 "bJS-hB-0l3.title" = "Mittel";
 
-/* Class = "NSTextFieldCell"; title = "File a Bug Report"; ObjectID = "bQf-qv-mvB"; */
-"bQf-qv-mvB.title" = "Erstatte einen Fehlerbericht";
-
 /* Class = "NSTextFieldCell"; title = "Mac Mouse Fix will stay enabled after you close it"; ObjectID = "bew-ni-FnZ"; */
 "bew-ni-FnZ.title" = "Mac Mouse Fix bleibt eingeschaltet, nachdem du\nes beendest";
 
@@ -224,20 +233,11 @@
 /* Class = "NSMenuItem"; title = "macOS"; ObjectID = "cnA-CV-nF3"; Note = "Pointer > Acceleration > macOS Option"; */
 "cnA-CV-nF3.title" = "macOS"; // !IS_OK
 
-/* Class = "NSTextFieldCell"; title = "<Day 2/14 of your test period>"; ObjectID = "cul-5Z-iUo"; */
-"cul-5Z-iUo.title" = "<Danke, dass du Mac Mouse Fix gekauft hast!>";
-
-/* Class = "NSMenuItem"; title = "Buy Mac Mouse Fix..."; ObjectID = "d0g-07-PaJ"; */
-"d0g-07-PaJ.title" = "Mac Mouse Fix kaufen...";
-
 /* Class = "NSViewController"; title = "Buttons"; ObjectID = "d9S-X9-qM1"; Note = "Buttons Tab Title"; */
 "d9S-X9-qM1.title" = "Tasten";
 
 /* Class = "NSViewController"; title = "General"; ObjectID = "eLS-O0-A1x"; Note = "General Tab Title"; */
 "eLS-O0-A1x.title" = "Allgemein";
-
-/* Class = "NSTextFieldCell"; title = "Get Help"; ObjectID = "eVc-l9-Z0h"; */
-"eVc-l9-Z0h.title" = "Bekomme Hilfe";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "fGs-UI-L0d"; */
 "fGs-UI-L0d.title" = "Alle einblenden";

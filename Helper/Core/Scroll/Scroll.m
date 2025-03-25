@@ -65,7 +65,7 @@ static CFTimeInterval _lastScrollAnalysisResultTimeStamp;
     /// Setup dispatch queue
     ///  For multithreading while still retaining control over execution order.
     dispatch_queue_attr_t attr = dispatch_queue_attr_make_with_qos_class(DISPATCH_QUEUE_SERIAL, QOS_CLASS_USER_INTERACTIVE, -1);
-    _scrollQueue = dispatch_queue_create("com.nuebling.mac-mouse-fix.helper.scroll", attr);
+    _scrollQueue = dispatch_queue_create("org.jetos.mac-mouse-fix.helper.scroll", attr);
     
     /// Create AXUIElement for getting app under mouse pointer
     _systemWideAXUIElement = AXUIElementCreateSystemWide();
@@ -320,8 +320,6 @@ static void heavyProcessing(CGEventRef event, int64_t scrollDeltaAxis1, int64_t 
         /// Disable suspension
 //        _isSuspended = NO;
         
-        /// Notify TrialCounter.swift
-        [TrialCounter.shared handleUse];
         
         /// Update active device
         [HelperState.shared updateActiveDeviceWithEvent:event];

@@ -83,7 +83,7 @@ import QuartzCore
     @objc override init() {
         
         self.displayLink = DisplayLink(optimizedFor: kMFDisplayLinkWorkTypeEventSending /*kMFDisplayLinkWorkTypeGraphicsRendering*/)
-//        self.animatorQueue = DispatchQueue(label: "com.nuebling.mac-mouse-fix.animator", qos: .userInteractive , attributes: [], autoreleaseFrequency: .inherit, target: nil)
+//        self.animatorQueue = DispatchQueue(label: "org.jetos.mac-mouse-fix.animator", qos: .userInteractive , attributes: [], autoreleaseFrequency: .inherit, target: nil)
         
         super.init()
     }

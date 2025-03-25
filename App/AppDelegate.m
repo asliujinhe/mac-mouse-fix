@@ -38,20 +38,6 @@
     [MainAppState.shared.tabViewController coolSelectTabWithIdentifier:@"about" window:nil];
 }
 
-- (IBAction)activateLicense:(id)sender {
-    [LicenseSheetController add];
-}
-
-- (IBAction)buyMMF:(id)sender {
-    
-    [GetLicenseConfig getWith_callingFunc:NSStringFromSelector(_cmd) completionHandler:^(MFLicenseConfig * _Nonnull licenseConfig) {
-            
-        NSLocale *locale = NSLocale.currentLocale;
-        BOOL useQuickLink = NO;
-        
-        [LicenseUtility buyMMFWithLicenseConfig:licenseConfig locale:locale useQuickLink:useQuickLink];
-    }];
-}
 
 
 #pragma mark - Interface funcs
@@ -91,10 +77,6 @@
     }
     
     if ([path isEqual:@"activate"]) {
-        
-        /// Open the license activation UI
-        
-        [LicenseSheetController add];
         
     } else if ([path isEqual:@"disable"]) {
         

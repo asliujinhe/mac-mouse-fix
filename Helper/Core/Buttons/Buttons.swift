@@ -16,7 +16,7 @@ import CocoaLumberjackSwift
 @objc class Buttons: NSObject {
     
     /// Ivars
-    static var queue: DispatchQueue = DispatchQueue(label: "com.nuebling.mac-mouse-fix.buttons", qos: .userInteractive, attributes: [], autoreleaseFrequency: .inherit, target: nil)
+    static var queue: DispatchQueue = DispatchQueue(label: "org.jetos.mac-mouse-fix.buttons", qos: .userInteractive, attributes: [], autoreleaseFrequency: .inherit, target: nil)
     static private var clickCycle = ClickCycle(buttonQueue: DispatchQueue(label: "replace this"))
     static private var buttonModifiers = ButtonModifiers()
     @objc static var useButtonModifiers = false
@@ -149,8 +149,6 @@ import CocoaLumberjackSwift
 //                actionArray[0][kMFRemapsKeyModificationPrecondition] = self.modifiers
 //            }
             
-            /// Notify TrialCounter.swift
-            TrialCounter.shared.handleUse()
             
             /// Execute actionArray
             if startOrEnd == kMFActionPhaseCombined {

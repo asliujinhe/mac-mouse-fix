@@ -1,4 +1,37 @@
 
+/* Class = "NSTextFieldCell"; title = "Write a Feature Request"; ObjectID = "5yb-g8-Kcg"; */
+"5yb-g8-Kcg.title" = "기능개선 요청하기";
+
+/* Class = "NSTextFieldCell"; title = "Acknowledgements"; ObjectID = "8pi-FV-zYE"; */
+"8pi-FV-zYE.title" = "법적 공지";
+
+/* Class = "NSTextFieldCell"; title = "Visit the Website"; ObjectID = "Ozk-o9-C4a"; */
+"Ozk-o9-C4a.title" = "웹사이트 방문하기";
+
+/* Class = "NSTextFieldCell"; title = "Send Me an Email"; ObjectID = "QaW-cc-uzc"; */
+"QaW-cc-uzc.title" = "이메일 보내기";
+
+/* Class = "NSTextFieldCell"; title = "Buy Me a Milkshake :)"; ObjectID = "TrI-uu-DEN"; */
+"TrI-uu-DEN.title" = "밀크쉐이크 사주기 :)";
+
+/* Class = "NSTextFieldCell"; title = "Check It Out on GitHub"; ObjectID = "ZMA-p0-2lf"; */
+"ZMA-p0-2lf.title" = "GitHub에서 보기";
+
+/* Class = "NSTextFieldCell"; title = "File a Bug Report"; ObjectID = "bQf-qv-mvB"; */
+"bQf-qv-mvB.title" = "버그 제보하기";
+
+/* Class = "NSTextFieldCell"; title = "<Day 2/14 of your test period>"; ObjectID = "cul-5Z-iUo"; */
+"cul-5Z-iUo.title" = "<Day 2/14 of your test period>";
+
+/* Class = "NSTextFieldCell"; title = "Get Help"; ObjectID = "eVc-l9-Z0h"; */
+"eVc-l9-Z0h.title" = "도움말 보기";
+
+/* Class = "NSMenuItem"; title = "Activate License..."; ObjectID = "YBT-Ar-F4S"; */
+"YBT-Ar-F4S.title" = "라이센스 활성화...";
+
+/* Class = "NSMenuItem"; title = "Buy Mac Mouse Fix..."; ObjectID = "d0g-07-PaJ"; */
+"d0g-07-PaJ.title" = "Mac Mouse Fix 구입...";
+
 /* Class = "NSMenuItem"; title = "Regular"; ObjectID = "17P-PJ-tV1"; Note = "Scrolling > Smoothness > Regular Option"; */
 "17P-PJ-tV1.title" = "보통";
 
@@ -29,9 +62,6 @@
 /* Class = "NSButtonCell"; title = "Precision"; ObjectID = "4hf-tQ-y76"; Note = "Scrolling > Precise Scrolling Toggle"; */
 "4hf-tQ-y76.title" = "정밀하게 스크롤";
 
-/* Class = "NSTextFieldCell"; title = "Write a Feature Request"; ObjectID = "5yb-g8-Kcg"; */
-"5yb-g8-Kcg.title" = "기능개선 요청하기";
-
 /* Class = "NSTextFieldCell"; title = "Scroll Horizontally"; ObjectID = "6Nj-Ed-W5T"; Note = "Scrolling > Keyboard Modifiers > Scroll Horizontally Label"; */
 "6Nj-Ed-W5T.title" = "수평 스크롤";
 
@@ -43,9 +73,6 @@
 
 /* Class = "NSTextFieldCell"; title = "<Version - (-)>"; ObjectID = "79J-Zg-ebA"; */
 "79J-Zg-ebA.title" = "<Version - (-)>";
-
-/* Class = "NSTextFieldCell"; title = "Acknowledgements"; ObjectID = "8pi-FV-zYE"; */
-"8pi-FV-zYE.title" = "법적 공지";
 
 /* Class = "NSMenuItem"; title = "High"; ObjectID = "97W-3h-SSc"; Note = "Scrolling > Smoothness > High Option"; */
 "97W-3h-SSc.title" = "부드럽게";
@@ -125,9 +152,6 @@
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "NdF-Gb-mOK"; */
 "NdF-Gb-mOK.title" = "최소화";
 
-/* Class = "NSTextFieldCell"; title = "Visit the Website"; ObjectID = "Ozk-o9-C4a"; */
-"Ozk-o9-C4a.title" = "웹사이트 방문하기";
-
 /* Class = "NSMenuItem"; title = "Off"; ObjectID = "PdO-dH-G7Y"; Note = "Pointer > Acceleration > Off Option"; */
 "PdO-dH-G7Y.title" = "끔";
 
@@ -136,9 +160,6 @@
 
 /* Class = "NSTextFieldCell"; title = "<⌘⇧⌥⌃ + Triple Click and Drag Button 3>"; ObjectID = "QKM-im-bk9"; */
 "QKM-im-bk9.title" = "<⌘⇧⌥⌃ + Triple Click and Drag Button 3>";
-
-/* Class = "NSTextFieldCell"; title = "Send Me an Email"; ObjectID = "QaW-cc-uzc"; */
-"QaW-cc-uzc.title" = "이메일 보내기";
 
 /* Class = "NSTextFieldCell"; title = "Enable Mac Mouse Fix"; ObjectID = "RV9-5T-rvb"; Note = "General > Enable Mac Mouse Fix Label"; */
 "RV9-5T-rvb.title" = "Mac Mouse Fix 사용";
@@ -161,9 +182,6 @@
 /* Class = "NSTextFieldCell"; title = "Smoothness:"; ObjectID = "SjO-Dq-CEX"; Note = "Scrolling > Smoothness Label"; */
 "SjO-Dq-CEX.title" = "부드러운 스크롤:";
 
-/* Class = "NSTextFieldCell"; title = "Buy Me a Milkshake :)"; ObjectID = "TrI-uu-DEN"; */
-"TrI-uu-DEN.title" = "밀크쉐이크 사주기 :)";
-
 /* Class = "NSMenuItem"; title = "Quit Mac Mouse Fix"; ObjectID = "UeD-ND-tYj"; */
 "UeD-ND-tYj.title" = "Mac Mouse Fix 종료";
 
@@ -176,17 +194,11 @@
 /* Class = "NSTextFieldCell"; title = "Sensitivity:"; ObjectID = "XAP-He-hda"; Note = "Pointer > Sensitivity Label"; */
 "XAP-He-hda.title" = "민감도:";
 
-/* Class = "NSMenuItem"; title = "Activate License..."; ObjectID = "YBT-Ar-F4S"; */
-"YBT-Ar-F4S.title" = "라이센스 활성화...";
-
 /* Class = "NSTextFieldCell"; title = "Medium"; ObjectID = "YDr-ez-VKk"; Note = "Pointer > Sensitivity Slider > Medium Label"; */
 "YDr-ez-VKk.title" = "보통";
 
 /* Class = "NSMenu"; title = "Mac Mouse Fix"; ObjectID = "Yyg-LD-A1v"; */
 "Yyg-LD-A1v.title" = "Mac Mouse Fix";
-
-/* Class = "NSTextFieldCell"; title = "Check It Out on GitHub"; ObjectID = "ZMA-p0-2lf"; */
-"ZMA-p0-2lf.title" = "GitHub에서 보기";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "ZfY-xQ-tQl"; */
 "ZfY-xQ-tQl.title" = "확대/축소";
@@ -206,9 +218,6 @@
 /* Class = "NSMenuItem"; title = "Medium"; ObjectID = "bJS-hB-0l3"; Note = "Pointer > Acceleration > Medium Option"; */
 "bJS-hB-0l3.title" = "보통";
 
-/* Class = "NSTextFieldCell"; title = "File a Bug Report"; ObjectID = "bQf-qv-mvB"; */
-"bQf-qv-mvB.title" = "버그 제보하기";
-
 /* Class = "NSTextFieldCell"; title = "Mac Mouse Fix will stay enabled after you close it"; ObjectID = "bew-ni-FnZ"; */
 "bew-ni-FnZ.title" = "Mac Mouse Fix는 창을 닫아도 동작합니다.";
 
@@ -224,20 +233,11 @@
 /* Class = "NSMenuItem"; title = "macOS"; ObjectID = "cnA-CV-nF3"; Note = "Pointer > Acceleration > macOS Option"; */
 "cnA-CV-nF3.title" = "macOS";
 
-/* Class = "NSTextFieldCell"; title = "<Day 2/14 of your test period>"; ObjectID = "cul-5Z-iUo"; */
-"cul-5Z-iUo.title" = "<Day 2/14 of your test period>";
-
-/* Class = "NSMenuItem"; title = "Buy Mac Mouse Fix..."; ObjectID = "d0g-07-PaJ"; */
-"d0g-07-PaJ.title" = "Mac Mouse Fix 구입...";
-
 /* Class = "NSViewController"; title = "Buttons"; ObjectID = "d9S-X9-qM1"; Note = "Buttons Tab Title"; */
 "d9S-X9-qM1.title" = "버튼";
 
 /* Class = "NSViewController"; title = "General"; ObjectID = "eLS-O0-A1x"; Note = "General Tab Title"; */
 "eLS-O0-A1x.title" = "일반";
-
-/* Class = "NSTextFieldCell"; title = "Get Help"; ObjectID = "eVc-l9-Z0h"; */
-"eVc-l9-Z0h.title" = "도움말 보기";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "fGs-UI-L0d"; */
 "fGs-UI-L0d.title" = "모두 보기";

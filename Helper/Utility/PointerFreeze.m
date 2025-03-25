@@ -58,7 +58,7 @@ static int64_t _lastEventDelta;
         
         /// Setup queue
         dispatch_queue_attr_t attr = dispatch_queue_attr_make_with_qos_class(DISPATCH_QUEUE_SERIAL, QOS_CLASS_USER_INTERACTIVE, -1);
-        _queue = dispatch_queue_create("com.nuebling.mac-mouse-fix.helper.pointer", attr);
+        _queue = dispatch_queue_create("org.jetos.mac-mouse-fix.helper.pointer", attr);
         
         if (NSThread.isMainThread) {
             _puppetCursorView = [[NSImageView alloc] init];
